@@ -1,2 +1,2 @@
 # rosalind-bioinformatics
- My solutions to the bioinformatics practice problems on rosalind.info
+ My (bad) solutions to the bioinformatics practice problems on rosalind.info
